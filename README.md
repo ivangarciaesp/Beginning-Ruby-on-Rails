@@ -1,4 +1,28 @@
-# Beginning-Ruby-on-Rails
+# README
+
 My first step on Ruby on Rails
 
 It's just to draw the initial point on my way of Ruby on Rails.
+
+This README would normally document whatever steps are necessary to get the
+application up and running.
+
+Things you may want to cover:
+
+* Ruby version
+
+* System dependencies
+
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
